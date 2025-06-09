@@ -1,0 +1,6 @@
+telebot
+aiohttp
+qrcode
+transliterate
+wg_easy_api_wrapper
+pillow
