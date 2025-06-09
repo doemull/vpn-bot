@@ -17,14 +17,7 @@ Technologies
 Language: Python 3.12
 Libraries:
 telebot (pyTelegramBotAPI)
-sqlite3
-threading
-wg_easy_api_wrapper
-qrcode
-logging
-asyncio
-aiohttp
-translit
+
 
 
 
